@@ -30,7 +30,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Programming language</summary>
+  <summary>Language</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
   </ul>
