@@ -40,7 +40,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Rubocop implemented**
-- **Implement my enumerable module**
+- **Implement enumerable module**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
