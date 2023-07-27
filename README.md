@@ -17,7 +17,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # 📖 [Enumerable] <a name="about-project"></a>
@@ -86,9 +85,8 @@ To install dependencies, the following command must be run in the terminal:
 In the project directory, you can run:
 
 ```sh
-  irb -r ./mylist.rb
+  irb -r ./index.rb
 ```
-
 
 ### Run tests
 
